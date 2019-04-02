@@ -6,9 +6,9 @@
 	
 * build.grade
 
-    implementation 'com.squareup.retrofit2:retrofit:2.4.0'
-    implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
-    implementation 'com.squareup.okhttp3:okhttp:3.11.0'
+		implementation 'com.squareup.retrofit2:retrofit:2.4.0'
+		implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
+		implementation 'com.squareup.okhttp3:okhttp:3.11.0'
 
 Use `get` and `post` requests by `okhttp`
 
