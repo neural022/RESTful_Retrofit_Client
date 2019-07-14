@@ -3,6 +3,8 @@
 * AndroidManifest.xml
 
 		<uses-permission android:name="android.permission.INTERNET" />
+`Retrofit` call in `Android Pie (9.0)`
+		android:usesCleartextTraffic="true"
 	
 * build.grade
 
