@@ -6,7 +6,7 @@
 		
 `Retrofit 2` call in Android Pie(9.0)
 		
-		android:usesCleartextTraffic="true"
+			android:usesCleartextTraffic="true"
 	
 * build.grade
 
