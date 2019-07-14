@@ -4,9 +4,9 @@
 
 		<uses-permission android:name="android.permission.INTERNET" />
 		
-		`Retrofit 2` call in Android Pie(9.0)
+* `Retrofit 2` call in Android Pie(9.0)
 
-			android:usesCleartextTraffic="true"
+		android:usesCleartextTraffic="true"
 	
 * build.grade
 
